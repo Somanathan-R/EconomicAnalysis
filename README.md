@@ -1,1 +1,1 @@
-Economic analysis done using FRED Api
+Economic analysis performed using data obtained from FRED 
